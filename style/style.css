@@ -1,0 +1,24 @@
+/* General Styling */
+
+* {
+    box-sizing: border-box;
+}
+
+/* div styling */
+.parallax {
+    height: 100vh;
+
+}
+
+
+.screen-1 {
+    background: red;
+}
+
+.screen-2 {
+    background: blue;
+}
+
+.screen-3 {
+    background: purple;
+}

@@ -1,0 +1,30 @@
+/* General Styling */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+/* navbar */
+.navbar-fixed-top {
+    top: -70px;
+    opacity: 0;
+}
+
+.nav {
+
+    border: none;
+}
+
+.nav a {
+    color: white;
+    font-weight: 100;
+}
+
+.intro-bg {
+    height: 100vh;
+    background: rgb(242, 183, 183);
+}
