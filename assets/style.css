@@ -8,6 +8,18 @@ body {
     font-family: 'Noto Sans JP', sans-serif;
 }
 
+h1 {
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 1.2em;
+}
+
+p {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.5em;
+}
+
 /* navbar */
 .navbar-fixed-top {
     top: -70px;
@@ -26,5 +38,10 @@ body {
 
 .intro-bg {
     height: 100vh;
-    background: rgb(242, 183, 183);
+    background: rgb(245, 225, 225);
+}
+
+/* intro-bg styling */
+.padding-bottom-medium {
+    padding-bottom: 40px;
 }
